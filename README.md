@@ -18,8 +18,8 @@ Bruno Willian – [@brunowilliang](https://instagram.com/brunowilliang) – brun
 
 ## Contributing
 
-1. Fork it (<https://github.com/Brunowilliang/Clone_PicPay/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Faça um Fork (<https://github.com/Brunowilliang/Clone_PicPay/fork>)
+2. Crie uma branch (`git checkout -b feature/fooBar`)
+3. Faça um Commit (`git commit -am 'Add some fooBar'`)
+4. Faça um Push na branch (`git push origin feature/fooBar`)
+5. Crie um Pull Request
